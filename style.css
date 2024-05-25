@@ -40,3 +40,38 @@ a:hover {
     transform: translateX(30px);
     transition: all 0.2s linear;
 }
+
+.iphone15 img {
+    width: 200px;
+    height: 220px;
+}
+
+.pocox3pro img {
+    width: 200px;
+    height: 220px;
+}
+
+.samsunga5 img{
+    width: 300px;
+    height: 320px;
+}
+
+.samsungs21fe img {
+    width: 220px;
+    height: 240px;
+}
+
+.oneplus img {
+    width: 220px;
+    height: 240px;
+}
+
+.infinix img {
+    width: 220px;
+    height: 240px;
+}
+
+.nokia img {
+    width: 250px;
+    height: 260px;
+}
