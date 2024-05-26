@@ -5,15 +5,7 @@ body {
 
 div {
     border: 1px solid black;
-    border-radius: 5px;
-    padding: 10px;
-    margin-bottom: 5px;
-}
 
-button {
-    font-size: 15px;
-    margin-left: 200px;
-    background-image: linear-gradient();
     background-color: black;
     color: aliceblue;
     border-radius: 10px;
